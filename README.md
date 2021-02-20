@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# REACT-WEBSITE_V2-YT
+
+## Reference
+- [Youtube: React Website Responsive Tutorial - Beginner React JS Project Using Hooks and Router
+](https://www.youtube.com/watch?v=3nLTB_E6XAM&list=PLs1fqgQpnCmJSkrDA2wTsSsLnYpE8jpVy&index=6)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
